@@ -23,8 +23,11 @@ fifa_ variable_information.csv - information on individual variables.
 2.	Generate pair plots for the following variables:
 * Overall, Value, Wage, International Reputation, Height, Weight, Release Clause
 3.	Generate a table containing the top 20 players ranked by Overall score and whose contract expires in 2020.
-a)	What would the average wage for this set of players be?
+  
+a) What would the average wage for this set of players be?
+
 b)	What is the average age?
+
 c)	Is there a correlation between the Overall rating and Value for these players?
 
 4.	Generate tables containing the top 5 players by Overall rating for each unique position.
