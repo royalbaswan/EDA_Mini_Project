@@ -33,4 +33,5 @@ fifa_ variable_information.csv - information on individual variables.
 4.	Generate tables containing the top 5 players by Overall rating for each unique position.
 	
   a) Are there any players appearing in more than one Table? Please point out such players.
+  
   b) What is the average wage one can expect to pay for the top 5 in every position?
